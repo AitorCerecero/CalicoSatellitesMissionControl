@@ -3,7 +3,7 @@ import time
 User = "Via003"
 PWD = "Viasat3"
 
-print("Bienvenido al Sistema Satelital Viasat")
+print("Bienvenido al Sistema Satelital Viasat.")
 while True:
     print("Por favor ingresa tu usuario y contraseña")
     user = input()
